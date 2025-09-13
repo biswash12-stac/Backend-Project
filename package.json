@@ -1,0 +1,27 @@
+{
+  "name": "backendproject",
+  "version": "1.0.0",
+  "description": "learning backend projects to understand the industry standards",
+  "keywords": [
+    "javascript",
+    "backend",
+    "projects",
+    "Biswash",
+    "Mainali"
+  ],
+  "homepage": "https://github.com/biswash12-stac/Backend-Project#readme",
+  "bugs": {
+    "url": "https://github.com/biswash12-stac/Backend-Project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biswash12-stac/Backend-Project.git"
+  },
+  "license": "ISC",
+  "author": "Biswash Mainali",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
